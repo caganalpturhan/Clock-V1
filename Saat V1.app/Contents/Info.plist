@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>24G90</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Saat V1</string>
+	<key>CFBundleIconName</key>
+	<string>__PlaceholderAppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>swift-playgrounds-app.Saat-V1</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Saat V1</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>24B75</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>15.1</string>
+	<key>DTSDKBuild</key>
+	<string>24B75</string>
+	<key>DTSDKName</key>
+	<string>macosx15.1</string>
+	<key>DTSwiftPlaygroundsBuild</key>
+	<string>4L310</string>
+	<key>DTSwiftPlaygroundsVersion</key>
+	<string>4.6.4</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.1</string>
+	<key>NSAccentColorName</key>
+	<string>__PresetAccentColor</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının ortam arşivine erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının Bluetooth’a erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının takvimine erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının kameraya erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının kişilerine erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının Face ID’ye erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının yerel ağa erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının konumuna erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının konumuna erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının mikrofona erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının hareket verilerine erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSNearbyInteractionAllowOnceUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının yakındaki aygıtlarla ilgili bilgilere erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının arşivine fotoğraf eklemesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının fotoğraflarına erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının anımsatıcılarına erişmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının konuşma tanıma işlemini gerçekleştirmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>NSSupportsAutomaticTermination</key>
+	<true/>
+	<key>NSSupportsSuddenTermination</key>
+	<true/>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Bu oyun alanı uygulaması Apple tarafından incelenmemiş. Bu oyun alanı uygulamasının, davranışını takip etmesine izin vermeden önce oyun alanı uygulaması kaynağına güvendiğinden emin ol ve kişisel veya finansal bilgilerini kullanacaksan dikkatli ol.</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~iphone</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+	</array>
+</dict>
+</plist>
